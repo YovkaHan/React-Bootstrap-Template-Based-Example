@@ -1,0 +1,19 @@
+.no-flexbox {
+  .app-header {
+    display: block;
+    .app-header-title-logo, .app-header-title-signs {
+      display: inline-block;
+    }
+    .app-header-title-signs {
+      top: 0;
+    }
+  }
+  @media only screen and (min-width: 320px) and (max-width: 617px) {
+    .app-header-title-signs {
+      padding-left: 30px;
+    }
+  }
+  .i-absolute {
+    position: absolute;
+  }
+}

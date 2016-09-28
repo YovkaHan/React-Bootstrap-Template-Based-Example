@@ -1,0 +1,28 @@
+{ "lists" : [
+  {
+    "id" : "00000001",
+    "first" : "Suspendisse bibendum lacus non dolor placerat, vitae sodales orci consectetur. Vivamus at tortor porta, malesuada nisl id, ullamcorper nulla. Vivamus at magna nisi;",
+    "second" :" "
+  },
+  {
+    "id" : "00000002",
+    "first" : "Pellentesque eleifend, metus sollicitudin vestibulum consequat, dolor leo vehicula nisi, vitae dignissim ex risus ac nulla.",
+    "second" :"Proin congue nibh nec elit ultricies, vel sagittis mi tempus. Nulla mattis nisi a finibus ullamcorper. Etiam porta ex id neque condimentum, non facilisis ligula sollicitudin. Ut non feugiat nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam porta nunc eu nisi lacinia, eu pellentesque ante maximus. Fusce nec cursus metus. Morbi blandit ullamcorper convallis;"
+  },
+  {
+    "id" : "00000003",
+    "first" : "Suspendisse bibendum lacus non dolor placerat, vitae sodales orci consectetur. Vivamus at tortor porta, malesuada nisl id, ullamcorper nulla.",
+    "second" :"Vivamus at magna nisi. Praesent dictum nec tellus sed venenatis. Maecenas nec dui vel dolor lobortis ultrices vel et tellus. Fusce quis nisl pretium, mattis leo viverra, vulputate diam. Sed pellentesque, urna ac porttitor fringilla, nulla sem gravida ante, sed mattis justo turpis vel nisl. Nulla suscipit ipsum tempus diam commodo mattis. Fusce tincidunt sollicitudin nibh sit amet sollicitudin. Aenean consequat, mauris eget sollicitudin blandit, neque dui gravida arcu, pretium dictum libero arcu sit amet lacus. Aliquam velit justo, blandit eu libero vitae, posuere sodales tortor. Nullam quis leo velit. Nunc dapibus in ligula eu pharetra. Maecenas eu commodo sem;"
+  },
+  {
+    "id" : "00000004",
+    "first" : "Aliquam pulvinar lorem sit amet tempus vestibulum. In luctus convallis erat quis consequat.",
+    "second" :" Vestibulum justo sapien, vestibulum eu condimentum vel, pellentesque et ipsum. \"Donec ornare\" scelerisque tellus, sollicitudin ornare lacus malesuada sit amet. Maecenas a eleifend libero, cursus porttitor felis. Praesent pretium libero nec est congue, eu placerat purus scelerisque. Integer quis fringilla libero."
+  },
+  {
+    "id" : "00000005",
+    "first" : "Возможность направления адвокатских запросов, которые есть обязательными для рассмотрения и предоставления ответа.",
+    "second" :" Законодательство обязывает государственные органы, а также руководителей предприятий, учреждений, организаций, общественных объединений предоставлять ответ на адвокатский запрос в течение 5 рабочих дней. При таких условиях адвокат имеет значительные преимущества в процессе подготовки эффективной защиты интересов Клиента благодаря законодательно закрепленному праву получать необходимый для ведения дела объем информации."
+  }
+  ]
+}
